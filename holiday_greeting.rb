@@ -3,3 +3,5 @@ def holiday_greeting(holiday="mother's day",sender=" your favorite child", recie
 end
 
 # puts holiday_greeting
+
+puts holiday_greeting("Jay-Z","Beyonce","Independence Day")
