@@ -1,4 +1,4 @@
-def holiday_greeting(holiday= "Mother's day", name= "favorite child")
+def holiday_greeting(holiday= , name= "favorite child")
   "Happy #{holiday}, from your #{name}!"
 end
 
