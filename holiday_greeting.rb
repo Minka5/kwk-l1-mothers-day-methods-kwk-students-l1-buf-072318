@@ -1,5 +1,5 @@
-def holiday_greeting(holiday="mother's day",sender=" your favorite child", reciever= "mom")
-  "Happy #{holiday},#{reciever} from #{sender}!"
+def holiday_greeting(reciever="mom",sender=" your favorite child", holiday= "mother's day")
+  "Happy #{holiday},#{reci from #{sender}!"
 end
 
 # puts holiday_greeting
