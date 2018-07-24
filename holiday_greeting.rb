@@ -1,5 +1,5 @@
 def holiday_greeting(reciever="mom",sender="your favorite child", holiday= "mother's day")
-  "Happy #{holiday},#{reciver} from #{sender}!"
+  "Happy #{holiday},#{reciever} from #{sender}!"
 end
 
 # puts holiday_greeting
